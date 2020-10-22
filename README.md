@@ -2,6 +2,10 @@
 
 <h1>Android Application </h1>
 
+<h1>Download At Amazon appstore </h1>
+
+- https://www.amazon.com/gp/product/B08L9KLGMX
+
 <h1>Features: </h1>
 
 - Game Stats
